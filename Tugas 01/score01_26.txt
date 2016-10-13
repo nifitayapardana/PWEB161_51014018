@@ -1,0 +1,5 @@
++ 10 tugas selesai minimal 5 lagu
++ 10 untuk 5 link ok
+- 1 untuk gambar tidak sesuai dengan lagu
++ 5 untuk 5 halaman lagu yang bisa back ke index
++ 2 link ke facebook anda dari halaman index.html
