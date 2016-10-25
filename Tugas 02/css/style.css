@@ -1,0 +1,36 @@
+body
+{
+	background-color: #ddeeff;
+}
+
+img
+{
+	width: 400px;
+}
+
+p
+{
+	font-size:20px;
+	font-family: verdana;
+}
+h3
+{
+	color: #8DEA95;
+	font-weight: bold;
+	font-size:38px;
+	font-family: verdana;
+}
+li
+{
+	color: #FFD700;
+	font-weight: bold;
+	font-size:18px;
+	font-family: verdana;
+}
+.judulutama
+{
+	color: #eA6CA5;
+	font-weight: bold;
+	font-size:58px;
+	font-family: verdana;
+}
