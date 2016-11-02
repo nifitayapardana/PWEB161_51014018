@@ -1,0 +1,122 @@
+body 
+{
+
+    background: url(back.jpg) no-repeat fixed top center; 
+		background-size: 100% 100%;
+	background-attachment: fixed;
+}
+p
+{
+	font-size:20px;
+	font-family: arial;
+	position:static;
+}
+
+h3
+{
+	color: #8DEA95;
+	font-weight: bold;
+	font-size:34px;
+	font-family: verdana;
+	text-shadow: 1px 1px #818181;
+	position:relative;
+}
+
+.bagian
+{
+	max-width: 1100px;
+	border:3px;
+	margin: 40px auto;
+	border-radius: 10px;
+	overflow: hidden;
+	padding: 10px;
+	
+}
+
+
+.judul
+{
+	height: 45px;
+	background-size: cover;
+	color : #F8F8FF;
+	font-size : 34px;
+	font-family : helvetica;
+	font-weight : bold;
+	text-align : center;
+	text-shadow: 1px 1px #818181;
+	border-radius : 30px;
+	background-color : #FF69B4;
+	width : 98%;
+}
+
+
+.menu
+{
+	font-size : 18px;
+	font-family : helvetica;
+	font-weight : bold;
+	font-stretch :15px;
+	text-shadow: 0.5px 0.5px #818181;
+	text-align : center;
+	border-radius : 14px;
+	background-color : #FFFF00;
+	width : 220px;
+	height : 110px;
+	border-radius: 25px;
+	padding: 10px;
+	float: left;
+}
+
+
+.lagu
+{
+	overflow-y: scroll;
+	width: 650px;
+	height: 550px;
+	text-align: center;
+	background-color: #E0FFFF;
+	padding: 10px;
+	margin: 10px;
+	float: center;
+	border-radius: 25px;
+}
+
+
+.lagu img
+{
+	max-width: 350px;
+	border-radius: 150%;
+	height: 200px;
+
+}
+
+
+@media screen and (max-width: 1080px)
+{
+	
+	.bagian 
+	{
+		width: 100%;
+	}
+	.menu  
+	{
+		width: 25%;
+
+	}
+	.lagu 
+	{
+		float: right;
+	}
+	
+}
+
+
+@media screen and (max-width: 1000px)
+{
+
+	.menu , .lagu {
+		width: auto;
+		float: none;
+	}
+		
+}
