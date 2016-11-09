@@ -1,0 +1,96 @@
+img
+{
+	max-width: 320px;
+	border-radius: 70%;
+	max-height: 270px;
+	position:center;
+	margin-left:auto;
+	margin-right:auto;
+	border-style: solid;
+    border-color: green;
+}
+
+
+p
+{
+	font-size:20px;
+	font-family: monospace,Helvetica;
+	text-shadow: 1.2px 1.2px #818181;
+}
+
+h2
+{
+	font-size:40px;
+	font-family:monospace,Helvetica;
+	color:#FFC0CB;
+	text-shadow: 1.2px 1.2px #818181;
+}
+
+
+
+#portfolio .portfolio-item .portfolio-link .caption
+{
+	background:#FFC0CB;
+}
+
+#about,.navbar-brand
+{
+	background-color:#FFC0CB;
+	background: linear-gradient(to right, #BFF, #FFC0CB);
+}
+
+#mainNav,.collapse
+{
+	background-color:#D3D3D3;
+	background: linear-gradient(to right, #BFF, #FFC0CB);
+}
+
+header
+{
+	background-color:#FFC0CB;
+	background: linear-gradient(to right, #BFF, #FFC0CB);
+	text-shadow: 1.2px 1.2px #818181;
+}
+
+footer.footer-above 
+{
+	color:#FFC0CB;
+}
+
+.page-scroll
+{
+	text-shadow: 1.2px 1.2px #818181;
+}
+
+.modal-body,.portfolio-modal
+{
+	background: linear-gradient(to right, #BFF, #FFC0CB);
+}
+
+
+
+hr.star-light {
+    border-color: #fff;
+}
+
+hr.star-light:after {
+    color: #FFFFFF;
+    background: linear-gradient(to right, #BFF, #FFC0CB)
+}
+
+hr.star-primary {
+    border-color: #FFFFF;
+}
+
+hr.star-primary:after {
+    color: #FFFFFF;
+    background: linear-gradient(to right, #BFF, #FFC0CB)
+}
+
+/* visited link */
+	a:visited 
+	{
+    		color: #E8247C;
+			
+	}
+
