@@ -1,0 +1,14 @@
+Theme : 
+* freelancer ( https://startbootstrap.com/template-overview/freelancer/ )
+
+
++ 10 untuk tugas yang di-commit terakhir selambatnya tanggal 9/11/16 23:59:59
++  6 untuk setiap selector theme yang di-overrite
++  8 untuk setiap penggunaan glphyicon atau font-awesome baru yang tidak ada di theme asli
+
+
+
+
+
+
+Total : 24
