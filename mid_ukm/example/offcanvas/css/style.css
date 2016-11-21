@@ -1,0 +1,60 @@
+body
+{
+  background: linear-gradient(to right, #F8F8FF,#BFF , #FFC0CB);
+  	font-family: helvetica,arial;
+	color:#818181;
+	text-align:center;
+}
+
+	
+.jumbotron
+{
+	background: linear-gradient(to right, #F8F8FF,#BFF);
+}
+
+
+.list-group-item
+{
+	background: linear-gradient(to right, #F8F8FF,#FFC0CB);
+}
+
+
+h1,h2
+{
+	color: #FF69B4;
+	text-shadow: 1.2px 1.2px #818181;
+}
+}
+
+.list-group.item
+{
+	overflow: hidden;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #FF69B4;
+    border-color: #FFF;
+}
+
+.h4
+{
+	 display: block;
+	 font-size: 20px;
+	color: #E8247C
+}
+p
+{
+	font-family:Helvetica,arial;
+}
+
+
+/* visited link */
+	a:visited 
+	{
+    		color: #E8247C;
+			
+	}
+	
+
+	

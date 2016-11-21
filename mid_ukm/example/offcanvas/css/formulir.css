@@ -1,0 +1,45 @@
+body 
+{
+ 	background: linear-gradient(to right, #F8F8FF,#BFF , #FFC0CB);
+}
+
+
+.form-signin 
+{
+	max-height:220px;
+    max-width: 770px;;
+    padding: 25px;
+    
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #FF69B4;
+    border-color: #FF69B4;
+}
+
+form-signin 
+{
+	
+    max-width: 370px;
+    padding: 25px;
+    
+}
+
+.form-signin .form-control 
+{
+   
+    padding: 14px;
+    font-size: 16px;
+}
+
+h4
+{
+	color:#87CEFA ;
+}
+
+h2
+{
+	
+	color:#FF69B4;
+}
